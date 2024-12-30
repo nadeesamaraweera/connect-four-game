@@ -3,6 +3,10 @@ In this assignment, you will implement the complete logic behind the "Connect 4 
 Please read the assignment carefully before proceeding. You can find the assignment [here](https://drive.google.com/file/d/1sfD00n_mQAmeyLz9kp_Kzd0V4OJhAqFM/view?usp=sharing).
 In case if you have any doubts regarding the assignment please make sure to clarify them upfront.
 
+# <img src="src/main/resources/asset/Screenshot 2024-12-30 102906.png" width="800"/>
+# <img src="src/main/resources/asset/Screenshot 2024-12-30 102952.png" width="800" height="800"/>
+# <img src="src/main/resources/asset/Screenshot 2024-12-30 103018.png" width="800" height="800"/>
+
 ### How to use this repo
 * `git clone https://github.com/Ranjith-Suranga/connect-four-game-assignment.git`
 * Open the `pom.xml` via IntelliJ IDEA
